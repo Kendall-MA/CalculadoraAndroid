@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="almost_black">#1E1E1E</color>
+    <color name="black">#FF000000</color>
+    <color name="almost_white">#f5f5f5</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="coral">#E46547</color>
+    <color name="turquoise">#26c6da</color>
+    <color name="dark_turquoise">#0095a8</color>
+    <color name="grey">#515151</color>
+</resources>
